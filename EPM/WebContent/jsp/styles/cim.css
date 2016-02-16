@@ -1,0 +1,104 @@
+/* 
+    Document   : uploadPage
+    Created on : Aug 17, 2012, 8:16:32 PM
+    Author     : Nitin Anuj
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+.tsMapTable{
+    font-family:arial;
+	background-color: #CDCDCD;
+	margin:10px 0pt 15px;
+	font-size: 8pt;
+	width: 100%;
+	text-align: left;
+}
+
+body
+{
+    background-color:white;
+    text-align:center;
+}
+div
+{
+    color: black;
+    background-color: #ffffff;
+}
+div.gr
+{
+    color: white;
+    background-color: #333333;
+}
+div.header
+{
+    color: white;
+    background-color: #333333;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+}
+div.footer
+{    
+    color: white;
+    background-color: #333333;
+    border-bottom-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+}
+table
+{
+    text-align: center;
+}
+
+td.threshold
+{
+    background-color: red;
+    color: white;
+}
+td.head
+{
+    background-color: #99ccff;
+}
+
+h1
+{
+    color:orange;
+    text-align:center;
+}
+h3
+{
+    color:orange;
+    text-align:center;
+}
+label
+{
+    color: black;
+    font-family:"Arial";
+}
+p
+{
+    font-family:"Times New Roman";
+    font-size:20px;
+}
+
+.slidingDiv {
+
+    background-color: white;
+    border-top:5px solid #333333;
+    border-left:5px solid #333333;
+    border-right:5px solid #333333;
+    border-bottom:5px solid #333333;
+    padding:5px;
+
+}
+
+.show_hide {
+    display:none;
+}
+.tableHead{
+    background-color: #333333;
+    color: white;
+    
+}
