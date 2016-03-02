@@ -1,0 +1,1 @@
+{ "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "EPM.EPM_TXN_DATA", "name" : "_id_" } ] }
